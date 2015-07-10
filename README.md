@@ -88,9 +88,9 @@ IPADDR=10.0.1.10
 PREFIX=24
 USERCTL=no
 #
-#You should set the DNS server provide from your ISP.
+You should set the DNS server provide from your ISP.
 cat /etc/resolv.conf
-#search ridizain.net
+search ridizain.net
 nameserver 10.0.1.2
 nameserver 168.95.1.1
 nameserver 8.8.8.8
