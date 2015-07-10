@@ -1,4 +1,3 @@
 # linux-admin-tips
-# Anton Lin 
-linux-admin-tips-to-remember
-
+Author: Anton Lin 
+Everyday linux admin tips try to remember.
