@@ -4,6 +4,7 @@ Author: Anton Lin
 Everyday linux admin tips try to remember.
 
 HARDWARE
+
 cpu
 mb
 ram
