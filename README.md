@@ -94,7 +94,7 @@ search ridizain.net
 nameserver 10.0.1.2
 nameserver 168.95.1.1
 nameserver 8.8.8.8
-#nameserver 8.8.4.4
+nameserver 8.8.4.4
 #
 cat /etc/hostname
 cat /etc/hosts
