@@ -3,9 +3,7 @@ linux-admin-tips
 Author: Anton Lin 
 
 Everyday linux admin tips try to remember.
-
-HARDWARE
-
+#. HARDWARE
 cpu
 mb
 ram
@@ -16,9 +14,9 @@ case
 monitor
 keyboard
 mouse
-#
-RAID
-#
+
+#. RAID
+
 LVM
 #
 INSTALLATION
