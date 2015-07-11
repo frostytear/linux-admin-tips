@@ -9,10 +9,10 @@ Author: Anton Lin
 
 #. HARDWARE
 
- cpu
- mb
- ram
- harddisk
+ #. cpu
+ #. mb
+ #. ram
+ #. harddisk
  network card
  power
  case
