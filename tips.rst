@@ -7,8 +7,6 @@ Everyday linux admin tips try to remember.
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. _rst_tutorial:
-
 1. HARDWARE
 
   #. cpu
@@ -22,11 +20,18 @@ Author: Anton Lin
   #. keyboard
   #. mouse
 
-_rst_tutorial:
-
 2. RAID
 
 3. LVM
+
+.. _my-reference-label:
+
+Section to cross-reference
+--------------------------
+
+This is the text of the section.
+
+It refers to the section itself, see :ref:`my-reference-label`.
 
 4. INSTALLATION
 
