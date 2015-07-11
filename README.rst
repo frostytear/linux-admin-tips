@@ -6,16 +6,16 @@ Everyday linux admin tips try to remember.
 
 #. HARDWARE
 
-cpu
-mb
-ram
-harddisk
-network card
-power
-case
-monitor
-keyboard
-mouse
+ cpu
+ mb
+ ram
+ harddisk
+ network card
+ power
+ case
+ monitor
+ keyboard
+ mouse
 
 #. RAID
 
