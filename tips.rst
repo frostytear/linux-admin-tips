@@ -1,3 +1,10 @@
+.. toctree::
+
+    intro
+    help
+    about
+
+
 linux-admin-tips
 ================
 
@@ -6,13 +13,6 @@ Everyday linux admin tips try to remember.
 
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. toctree::
-
-    intro
-    help
-    about
-
 
 1. HARDWARE
 
@@ -32,6 +32,7 @@ Author: Anton Lin
 3. LVM
 
 4.INSTALLATION
+
   #. kickstart
   #. drbl
   #. clonezilla
