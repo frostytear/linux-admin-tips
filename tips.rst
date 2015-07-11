@@ -9,7 +9,7 @@ Author: Anton Lin
 
 #. HARDWARE
 
- #. cpu
+ -#. cpu
  #. mb
  #. ram
  #. harddisk
