@@ -7,6 +7,13 @@ Everyday linux admin tips try to remember.
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. toctree::
+
+    intro
+    help
+    about
+
+
 1. HARDWARE
 
   #. cpu
