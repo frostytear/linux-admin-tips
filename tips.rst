@@ -20,16 +20,16 @@ Author: Anton Lin
   #. keyboard
   #. mouse
 
-#. RAID
+2. RAID
 
-LVM
-#
-INSTALLATION
-kickstart
-drbl
-clonezilla
-#
-PACKAGES
+3. LVM
+
+4.INSTALLATION
+  #. kickstart
+  #. drbl
+  #. clonezilla
+
+5. PACKAGES
 uname -a
 cat /etc/issue
 rpm or dpkg
