@@ -1,10 +1,10 @@
 linux-admin-tips
 ================
 
-Author: Anton Lin 
+Everyday linux admin tips try to remember.
 ------------------
 
-Everyday linux admin tips try to remember.
+Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. HARDWARE
