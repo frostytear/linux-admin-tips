@@ -9,8 +9,8 @@ Author: Anton Lin
 
 1. HARDWARE
 
-  #. cpu
-  #. mb
+  #.# cpu
+  #.# mb
   #. ram
   #. harddisk
   #. network card
