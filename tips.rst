@@ -7,10 +7,11 @@ Everyday linux admin tips try to remember.
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. _1. HARDWARE:
 1. HARDWARE
 
-  #.# cpu
-  #.# mb
+  #. cpu
+  #. mb
   #. ram
   #. harddisk
   #. network card
@@ -32,6 +33,7 @@ Section to cross-reference
 This is the text of the section.
 
 It refers to the section itself, see :ref:`my-reference-label`.
+It refers to the section itself, see :ref:`1. HARDWARE`.
 
 4. INSTALLATION
 
