@@ -6,8 +6,6 @@ Everyday linux admin tips try to remember.
 
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^
-
-_1. HARDWARE:
 1. HARDWARE
 
   #. cpu
