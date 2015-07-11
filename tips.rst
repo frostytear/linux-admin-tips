@@ -7,18 +7,18 @@ Everyday linux admin tips try to remember.
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. HARDWARE
+1. HARDWARE
 
- -#. cpu
- #. mb
- #. ram
- #. harddisk
- network card
- power
- case
- monitor
- keyboard
- mouse
+  #. cpu
+  #. mb
+  #. ram
+  #. harddisk
+  #. network card
+  #. power
+  #. case
+  #. monitor
+  #. keyboard
+  #. mouse
 
 #. RAID
 
