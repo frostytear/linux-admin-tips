@@ -1,10 +1,3 @@
-.. toctree::
-
-    intro
-    help
-    about
-
-
 linux-admin-tips
 ================
 
@@ -31,7 +24,7 @@ Author: Anton Lin
 
 3. LVM
 
-4.INSTALLATION
+4. INSTALLATION
 
   #. kickstart
   #. drbl
