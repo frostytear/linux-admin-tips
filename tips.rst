@@ -7,6 +7,8 @@ Everyday linux admin tips try to remember.
 Author: Anton Lin 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. _rst_tutorial:
+
 1. HARDWARE
 
   #. cpu
@@ -19,6 +21,8 @@ Author: Anton Lin
   #. monitor
   #. keyboard
   #. mouse
+
+_rst_tutorial:
 
 2. RAID
 
